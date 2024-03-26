@@ -1,5 +1,5 @@
 # **PROJET DEVELOPPEMENT WEB & MICRO-SERVICE 2024 :**
-## **Clone de youtube**
+## **Clone de pinterest**
 
 ## Table des matières
 * [Implémentation Fonctions](#Fonctions-minimales-à-implémenter)
